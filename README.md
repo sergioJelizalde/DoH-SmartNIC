@@ -1,8 +1,6 @@
 # DoH Traffic Classifier using Machine Learning
 
-This repository implements a DNS-over-HTTPS (DoH) traffic classification pipeline using machine learning models 
-such as Multi-Layer Perceptron (MLP) and Random Forest. The goal is to detect and differentiate benign and malicious 
-DoH traffic from PCAP files, with support for real-time inference using NEON-accelerated C code.
+This repository implements a DNS-over-HTTPS (DoH) traffic classification pipeline using machine learning models such as Multi-Layer Perceptron (MLP) and Random Forest. The goal is to detect and differentiate benign and malicious DoH traffic from PCAP files, with support for real-time inference using NEON-accelerated C code.
 
 ## Features
 
